@@ -6,8 +6,8 @@
 // @match        https://linux.do/*
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/noonisy/scirpts/main/LdNested.user.js
-// @updateURL    https://raw.githubusercontent.com/noonisy/scirpts/main/LdNested.user.js
+// @downloadURL  https://github.com/noonisy/scripts/raw/main/LdNested.user.js
+// @updateURL    https://github.com/noonisy/scripts/raw/main/LdNested.user.js
 // ==/UserScript==
 
 (function () {
